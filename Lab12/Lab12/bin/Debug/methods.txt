@@ -1,0 +1,16 @@
+get_Number 
+set_Number 
+get_Speed 
+set_Speed 
+get_Cost 
+set_Cost 
+toString 
+ToString 
+Equals 
+GetHashCode 
+GetType 
+e 
+TryParse 
+TryParse 
+GetTypeCode 
+GetType 

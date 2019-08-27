@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Car xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <speed>90</speed>
+  <Number>456</Number>
+  <Speed>90</Speed>
+  <Cost>34534</Cost>
+  <fuel>10</fuel>
+  <Mark>Volvo</Mark>
+  <Fuel>10</Fuel>
+</Car>

@@ -1,0 +1,6 @@
+Interable
+e
+IFormattable
+IConvertible
+IComparable`1
+IEquatable`1

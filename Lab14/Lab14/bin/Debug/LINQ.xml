@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+    <product name="PC 1">
+        <company>Invasion</company>
+        <price>500000</price>
+        <country>Russian</country>
+  </product>
+    <product name="PC 2">
+        <company>Lenovo</company>
+        <price>440000</price>
+      <country>China</country>
+  </product>
+</products>

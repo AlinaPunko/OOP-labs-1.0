@@ -1,0 +1,46 @@
+User.ToString():
+
+Reflection.User
+
+
+Member info:
+
+Reflection.User Method get_Name Lab12.exe
+Reflection.User Method set_Name Lab12.exe
+Reflection.User Method get_Age Lab12.exe
+Reflection.User Method set_Age Lab12.exe
+Reflection.User Method DoSmth Lab12.exe
+Reflection.User Method Display Lab12.exe
+Reflection.User Method Payment Lab12.exe
+System.Object Method ToString CommonLanguageRuntimeLibrary
+System.Object Method Equals CommonLanguageRuntimeLibrary
+System.Object Method GetHashCode CommonLanguageRuntimeLibrary
+System.Object Method GetType CommonLanguageRuntimeLibrary
+Reflection.User Constructor .ctor Lab12.exe
+Reflection.User Property Name Lab12.exe
+Reflection.User Property Age Lab12.exe
+Reflection.User Field str Lab12.exe
+Reflection.User Field obj Lab12.exe
+
+
+Method info:
+
+String get_Name ()
+Void set_Name (String value)
+Int32 get_Age ()
+Void set_Age (Int32 value)
+static Void DoSmth (String str)
+virtual Void Display ()
+Int32 Payment (Int32 hours, Int32 perhour)
+virtual String ToString ()
+virtual Boolean Equals (Object obj)
+virtual Int32 GetHashCode ()
+Type GetType ()
+
+
+Method info:
+
+Iam_Interface
+
+Specific methods:
+

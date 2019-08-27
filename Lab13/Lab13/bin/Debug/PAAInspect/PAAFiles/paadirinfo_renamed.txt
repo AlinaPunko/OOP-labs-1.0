@@ -1,0 +1,49 @@
+$RECYCLE.BIN
+3 sem
+419c9052066c78f6dab2
+e91e9e83f60147046d74
+ef1da54ee51229c59e54bcac33dcbb25
+github
+moyo
+PAA-2018
+PAAFiles
+System Volume Information
+USER
+Virtual1
+Virtual2
+Windows.old
+лабы
+ЛР_ФИТ-II_2017
+методички
+новые
+подарок от вероники
+Фото Алина выпускной
+Git-2.18.0-64-bit.exe
+in.txt.log
+KOMPAS - Деталь2.tif
+kompas-3d.zip
+MediaID.bin
+Oracle_VM_VirtualBox_Extension_Pack-5.2.18.vbox-extpack
+Server1.vhd
+Server2.vhd
+uTorrent.exe
+ViberSetup.exe
+Virtual1.vhd
+VirtualBox-5.2.18-124319-Win.exe
+Win7_Max_SP1_Russian_x64.iso
+windows_Server_2008R2.iso
+Деталь 1.m3d
+Деталь 1.m3d.bak
+Деталь.cdw
+Деталь.cdw.bak
+Деталь.m3d
+Деталь2.cdw
+Деталь2.cdw.bak
+Деталь2.m3d
+Деталь2.m3d.bak
+Зарезервировано системой (G) - Ярлык.lnk
+Новый том (D).lnk
+Основы КГ и графики без П123_04-02-2016.pdf
+РГР2.m3d
+РГР2.m3d.bak
+Семиуровневая модель OSI.docx

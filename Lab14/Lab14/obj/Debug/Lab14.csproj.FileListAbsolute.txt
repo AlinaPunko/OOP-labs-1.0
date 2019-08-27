@@ -1,0 +1,7 @@
+E:\лабы\ООП\Lab14\Lab14\bin\Debug\Lab14.exe.config
+E:\лабы\ООП\Lab14\Lab14\bin\Debug\Lab14.exe
+E:\лабы\ООП\Lab14\Lab14\bin\Debug\Lab14.pdb
+E:\лабы\ООП\Lab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+E:\лабы\ООП\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+E:\лабы\ООП\Lab14\Lab14\obj\Debug\Lab14.exe
+E:\лабы\ООП\Lab14\Lab14\obj\Debug\Lab14.pdb
